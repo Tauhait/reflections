@@ -1,0 +1,8 @@
+How did viewing a diff between two versions of a file help you see the bug that was introduced?
+:The + and the - signs clearly indicated where the differences were made between the files.
+How could having easy access to the entire history of a file make you a more efficient programmer in the long term?
+:If after doing certain changes the new version didn't work out as we might have thought then using the file history we can always restore back to our previous version, otherwise
+ we might have to press ctrl-z a lot no of times which is really annoying.
+ What do you think are the pros and cons of manually choosing when to create a commit, like you do in Git, vs having versions automatically saved, like Google Docs does?
+ :pros in git is you decide when to commit and do it mainly when you have done some logical change whereas in Google Docs frequent commits makes it clusterred. But on the other hand if
+  you forget to save after you have done a lot of changes then on some kind of severe/accidental failure you might lose all the changes in case of git but not in case of google docs.
